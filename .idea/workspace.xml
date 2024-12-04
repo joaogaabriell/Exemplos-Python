@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c859721a-ecdd-4ff4-8562-3e8e8f78aebd" name="Changes" comment="Adição de Exemplo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/Exemplo_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Exemplo_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733266145490</updated>
-      <workItem from="1733266146878" duration="1966000" />
+      <workItem from="1733266146878" duration="3250000" />
     </task>
     <task id="LOCAL-00001" summary="Adição de Exemplo">
       <option name="closed" value="true" />
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733268144802</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adição de Exemplo">
+      <option name="closed" value="true" />
+      <created>1733268356185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733268356185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
